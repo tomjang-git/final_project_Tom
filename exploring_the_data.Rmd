@@ -1,0 +1,69 @@
+---
+title: "Exploring data"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(modelr)
+library(dplyr)
+library(ggplot2)
+library(countrycode)
+library(readxl)
+```
+
+```{r}
+cross_country_gov_spend_mental_health <- read_csv("data/Cross country Government expenditure on mental health.csv") %>% 
+  clean_names() %>% 
+  filter(x1 != "Country") %>% 
+  mutate(country = x1) %>% 
+  select(-x1) %>% 
+  select(country, government_expenditures_on_mental_health_as_a_percentage_of_total_government_expenditures_on_health_percent, government_expenditures_on_mental_hospitals_as_a_percentage_of_total_government_expenditures_on_mental_health_percent, stand_alone_mental_health_legislation, mental_health_plan, mental_health_policy
+) %>% 
+  mutate(gov_spend_mental_health_percent = government_expenditures_on_mental_health_as_a_percentage_of_total_government_expenditures_on_health_percent,
+         gov_spend_mental_hospitals_of_mh_spend_percent =  government_expenditures_on_mental_hospitals_as_a_percentage_of_total_government_expenditures_on_mental_health_percent, 
+         number = 1:182) %>% 
+  select(-government_expenditures_on_mental_health_as_a_percentage_of_total_government_expenditures_on_health_percent, -government_expenditures_on_mental_hospitals_as_a_percentage_of_total_government_expenditures_on_mental_health_percent)
+
+
+cross_country_gov_spend_mental_health %>% 
+  filter(stand_alone_mental_health_legislation == "Yes",
+         mental_health_plan == "Yes",
+         mental_health_policy == "Yes")
+
+
+continents <- as.tibble(countrycode(sourcevar = cross_country_gov_spend_mental_health$country,
+                            origin = "country.name",
+                            destination = "continent")) %>% 
+  mutate(number = 1:182)
+
+cross_country_gov_spend_mental_health_w_continents <-
+left_join(continents, cross_country_gov_spend_mental_health, by = "number") %>% 
+  mutate(continent = value) %>% 
+  select(-value, -number)
+
+
+cross_country_gov_spend_mental_health_w_continents
+
+```
+
+
+
+```{r}
+read_xlsx("data/Commuting Data UK.xlsx")
+```
+
+
+```{r}
+```
+
+
+```{r}
+```
+
+
+```{r}
+```
+
+
