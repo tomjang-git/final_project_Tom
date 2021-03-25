@@ -1,0 +1,667 @@
+time,value_usd,country
+1985,-0.764566,Australia
+1986,-0.734375,Australia
+1987,1.606074,Australia
+1988,-0.600157,Australia
+1989,-0.218278,Australia
+1990,-2.445257,Australia
+1991,0.771477,Australia
+1992,2.338319,Australia
+1993,0.430123,Australia
+1994,0.166251,Australia
+1995,2.115822,Australia
+1996,2.4376,Australia
+1997,2.355133,Australia
+1998,2.460891,Australia
+1999,0.471915,Australia
+2000,0.063349,Australia
+2001,2.443946,Australia
+2002,0.506006,Australia
+2003,1.316733,Australia
+2004,-0.70923,Australia
+2005,-0.399529,Australia
+2006,-0.047778,Australia
+2007,0.267475,Australia
+2008,1.521491,Australia
+2009,-1.537597,Australia
+2010,0.436273,Australia
+2011,0.239019,Australia
+2012,0.889851,Australia
+2013,0.675583,Australia
+2014,0.151207,Australia
+2015,1.96464,Australia
+2016,-0.453888,Australia
+2017,1.080604,Australia
+1989,2.267096,Austria
+1990,2.067615,Austria
+1991,1.732464,Austria
+1992,1.160581,Austria
+1993,1.373337,Austria
+1994,2.784615,Austria
+1995,5.509766,Austria
+1996,-0.188889,Austria
+1997,0.3125,Austria
+1998,2.619064,Austria
+1999,1.09511,Austria
+2000,1.362211,Austria
+2001,0.013048,Austria
+2002,0.726447,Austria
+2003,-0.174624,Austria
+2004,1.313304,Austria
+2005,1.651713,Austria
+2006,2.154649,Austria
+2007,2.048003,Austria
+2008,-0.372338,Austria
+2009,-2.088883,Austria
+2010,1.071298,Austria
+2011,0.774443,Austria
+2012,0.359209,Austria
+2013,-0.214766,Austria
+2014,-0.091158,Austria
+2015,0.847465,Austria
+2016,-0.136297,Austria
+2017,0.65592,Austria
+1985,-0.087416,Belgium
+1986,0.979077,Belgium
+1987,1.220424,Belgium
+1988,2.51018,Belgium
+1989,1.284802,Belgium
+1990,0.235123,Belgium
+1991,1.950417,Belgium
+1992,1.474233,Belgium
+1993,0.416606,Belgium
+1994,2.340164,Belgium
+1995,-1.517145,Belgium
+1996,1.265899,Belgium
+1997,1.186783,Belgium
+1998,-1.220702,Belgium
+1999,1.171195,Belgium
+2000,0.067746,Belgium
+2001,-1.340413,Belgium
+2002,1.024881,Belgium
+2003,0.060166,Belgium
+2004,2.009862,Belgium
+2005,0.232844,Belgium
+2006,0.289676,Belgium
+2007,0.851898,Belgium
+2008,-1.291923,Belgium
+2009,-1.915808,Belgium
+2010,1.613511,Belgium
+2011,-0.631029,Belgium
+2012,-0.724104,Belgium
+2013,0.034702,Belgium
+2014,0.44873,Belgium
+2015,0.765468,Belgium
+2016,-0.12533,Belgium
+2017,-0.112886,Belgium
+1985,0.863692,Canada
+1986,-0.955231,Canada
+1987,0.488964,Canada
+1988,0.729398,Canada
+1989,-0.33337,Canada
+1990,-1.068947,Canada
+1991,-0.933801,Canada
+1992,1.011327,Canada
+1993,1.523515,Canada
+1994,1.856053,Canada
+1995,0.809467,Canada
+1996,-0.584337,Canada
+1997,1.913976,Canada
+1998,1.141879,Canada
+1999,1.945148,Canada
+2000,2.328599,Canada
+2001,0.267128,Canada
+2002,1.043816,Canada
+2003,-0.39762,Canada
+2004,0.2463,Canada
+2005,1.357096,Canada
+2006,0.297012,Canada
+2007,-0.491328,Canada
+2008,-0.801135,Canada
+2009,-0.747962,Canada
+2010,0.917084,Canada
+2011,1.368947,Canada
+2012,-0.379205,Canada
+2013,0.848822,Canada
+2014,2.005867,Canada
+2015,-0.306789,Canada
+2016,0.460352,Canada
+2017,1.649553,Canada
+1985,1.504907,Denmark
+1986,1.289986,Denmark
+1987,-0.006225,Denmark
+1988,0.167947,Denmark
+1989,0.345002,Denmark
+1990,1.251062,Denmark
+1991,1.063928,Denmark
+1992,0.775653,Denmark
+1993,0.447223,Denmark
+1994,4.843861,Denmark
+1995,0.734316,Denmark
+1996,1.306078,Denmark
+1997,0.020794,Denmark
+1998,-0.920346,Denmark
+1999,0.208472,Denmark
+2000,1.409733,Denmark
+2001,-1.159044,Denmark
+2002,-0.324788,Denmark
+2003,0.382744,Denmark
+2004,2.089484,Denmark
+2005,0.773568,Denmark
+2006,0.900285,Denmark
+2007,-0.627384,Denmark
+2008,-2.20581,Denmark
+2009,-2.811998,Denmark
+2010,2.691586,Denmark
+2011,0.312983,Denmark
+2012,1.015697,Denmark
+2013,0.436962,Denmark
+2014,1.166793,Denmark
+2015,1.221039,Denmark
+2016,0.444245,Denmark
+2017,0.898408,Denmark
+1985,2.25973,Finland
+1986,2.695472,Finland
+1987,1.663242,Finland
+1988,2.687893,Finland
+1989,2.971796,Finland
+1990,1.045993,Finland
+1991,-2.001494,Finland
+1992,0.879368,Finland
+1993,3.076803,Finland
+1994,3.817734,Finland
+1995,2.270335,Finland
+1996,2.074064,Finland
+1997,3.35927,Finland
+1998,3.504709,Finland
+1999,1.554954,Finland
+2000,3.681532,Finland
+2001,1.486835,Finland
+2002,0.655213,Finland
+2003,1.589704,Finland
+2004,2.744119,Finland
+2005,1.39054,Finland
+2006,2.232668,Finland
+2007,2.775417,Finland
+2008,-1.359452,Finland
+2009,-6.276393,Finland
+2010,2.829971,Finland
+2011,1.543523,Finland
+2012,-1.796372,Finland
+2013,0.114553,Finland
+2014,-0.228141,Finland
+2015,0.149609,Finland
+2016,2.091471,Finland
+2017,1.927878,Finland
+1985,2.572713,France
+1986,1.410933,France
+1987,0.523457,France
+1988,2.550286,France
+1989,2.575292,France
+1990,1.311269,France
+1991,0.10539,France
+1992,1.164589,France
+1993,-0.238698,France
+1994,1.396093,France
+1995,1.641885,France
+1996,0.41449,France
+1997,1.040082,France
+1998,1.800887,France
+1999,0.867315,France
+2000,1.850762,France
+2001,0.812556,France
+2002,1.629306,France
+2003,-0.045624,France
+2004,0.880675,France
+2005,0.434466,France
+2006,1.766989,France
+2007,-0.551338,France
+2008,-1.214991,France
+2009,-1.927379,France
+2010,0.988511,France
+2011,0.836025,France
+2012,-0.186047,France
+2013,0.655819,France
+2014,0.490005,France
+2015,0.38561,France
+2016,-0.23324,France
+2017,0.892818,France
+1985,1.314315,Germany
+1986,0.768207,Germany
+1987,0.45925,Germany
+1988,1.861493,Germany
+1989,2.498117,Germany
+1990,2.799014,Germany
+1991,2.67131,Germany
+1992,1.330244,Germany
+1993,0.359963,Germany
+1994,1.952267,Germany
+1995,1.208886,Germany
+1996,0.978036,Germany
+1997,1.744162,Germany
+1998,0.634672,Germany
+1999,0.663184,Germany
+2000,1.641057,Germany
+2001,1.558558,Germany
+2002,0.299631,Germany
+2003,-0.041138,Germany
+2004,0.680162,Germany
+2005,0.879236,Germany
+2006,1.832651,Germany
+2007,1.366542,Germany
+2008,-0.146094,Germany
+2009,-3.64599,Germany
+2010,2.582817,Germany
+2011,2.081136,Germany
+2012,0.326975,Germany
+2013,0.497914,Germany
+2014,1.057326,Germany
+2015,0.549788,Germany
+2016,1.266224,Germany
+2017,0.859669,Germany
+1985,2.370012,Ireland
+1986,-1.796238,Ireland
+1987,4.37414,Ireland
+1988,4.157239,Ireland
+1989,4.779174,Ireland
+1990,4.369366,Ireland
+1991,2.98486,Ireland
+1992,4.075136,Ireland
+1993,2.083673,Ireland
+1994,2.468195,Ireland
+1995,4.781857,Ireland
+1996,3.86296,Ireland
+1997,5.443873,Ireland
+1998,1.422562,Ireland
+1999,3.626925,Ireland
+2000,4.296081,Ireland
+2001,1.77845,Ireland
+2002,3.921499,Ireland
+2003,0.622738,Ireland
+2004,2.589962,Ireland
+2005,-0.219973,Ireland
+2006,-0.020073,Ireland
+2007,0.344528,Ireland
+2008,-4.402835,Ireland
+2009,0.682728,Ireland
+2010,3.778945,Ireland
+2011,5.989386,Ireland
+2012,-1.489138,Ireland
+2013,-1.931366,Ireland
+2014,4.719908,Ireland
+1985,1.197554,Italy
+1986,0.878556,Italy
+1987,1.04945,Italy
+1988,1.903969,Italy
+1989,2.23879,Italy
+1990,0.119526,Italy
+1991,-0.547236,Italy
+1992,0.402788,Italy
+1993,0.659812,Italy
+1994,3.032491,Italy
+1995,2.184582,Italy
+1996,-0.340908,Italy
+1997,1.016139,Italy
+1998,-0.53574,Italy
+1999,-0.043505,Italy
+2000,1.96474,Italy
+2001,-0.155253,Italy
+2002,-1.515373,Italy
+2003,-1.271544,Italy
+2004,0.440016,Italy
+2005,-0.002918,Italy
+2006,-0.153777,Italy
+2007,-0.382384,Italy
+2008,-1.34569,Italy
+2009,-3.459237,Italy
+2010,1.766297,Italy
+2011,0.274983,Italy
+2012,-1.14614,Italy
+2013,0.16586,Italy
+2014,0.226945,Italy
+2015,0.489587,Italy
+2016,-0.313365,Italy
+2017,0.763313,Italy
+1985,3.520238,Japan
+1986,1.077939,Japan
+1987,2.720398,Japan
+1988,4.029614,Japan
+1989,2.553404,Japan
+1990,3.050054,Japan
+1991,1.185258,Japan
+1992,-0.395301,Japan
+1993,0.074681,Japan
+1994,0.025141,Japan
+1995,1.763111,Japan
+1996,1.302128,Japan
+1997,0.208918,Japan
+1998,-0.671183,Japan
+1999,0.760847,Japan
+2000,1.741236,Japan
+2001,0.147766,Japan
+2002,0.62847,Japan
+2003,0.826503,Japan
+2004,1.697128,Japan
+2005,0.98368,Japan
+2006,0.034314,Japan
+2007,0.525606,Japan
+2008,-0.83679,Japan
+2009,-2.559205,Japan
+2010,3.49139,Japan
+2011,0.14155,Japan
+2012,1.061088,Japan
+2013,1.920158,Japan
+2014,0.015964,Japan
+2015,1.246766,Japan
+2016,0.362838,Japan
+1985,2.995916,"Korea, Republic of"
+1985,2.995916,South Korea
+1986,4.606091,"Korea, Republic of"
+1986,4.606091,South Korea
+1987,5.630552,"Korea, Republic of"
+1987,5.630552,South Korea
+1988,7.359275,"Korea, Republic of"
+1988,7.359275,South Korea
+1989,3.71834,"Korea, Republic of"
+1989,3.71834,South Korea
+1990,5.636073,"Korea, Republic of"
+1990,5.636073,South Korea
+1991,5.062495,"Korea, Republic of"
+1991,5.062495,South Korea
+1992,2.44032,"Korea, Republic of"
+1992,2.44032,South Korea
+1993,2.66625,"Korea, Republic of"
+1993,2.66625,South Korea
+1994,3.905771,"Korea, Republic of"
+1994,3.905771,South Korea
+1995,3.761706,"Korea, Republic of"
+1995,3.761706,South Korea
+1996,3.178986,"Korea, Republic of"
+1996,3.178986,South Korea
+1997,3.66418,"Korea, Republic of"
+1997,3.66418,South Korea
+1998,0.461857,"Korea, Republic of"
+1998,0.461857,South Korea
+1999,7.242132,"Korea, Republic of"
+1999,7.242132,South Korea
+2000,2.600697,"Korea, Republic of"
+2000,2.600697,South Korea
+2001,1.410011,"Korea, Republic of"
+2001,1.410011,South Korea
+2002,4.588594,"Korea, Republic of"
+2002,4.588594,South Korea
+2003,2.415847,"Korea, Republic of"
+2003,2.415847,South Korea
+2004,2.896983,"Korea, Republic of"
+2004,2.896983,South Korea
+2005,2.755074,"Korea, Republic of"
+2005,2.755074,South Korea
+2006,2.957373,"Korea, Republic of"
+2006,2.957373,South Korea
+2007,4.33031,"Korea, Republic of"
+2007,4.33031,South Korea
+2008,3.111929,"Korea, Republic of"
+2008,3.111929,South Korea
+2009,1.375608,"Korea, Republic of"
+2009,1.375608,South Korea
+2010,4.40906,"Korea, Republic of"
+2010,4.40906,South Korea
+2011,1.999069,"Korea, Republic of"
+2011,1.999069,South Korea
+2012,0.439817,"Korea, Republic of"
+2012,0.439817,South Korea
+2013,0.781626,"Korea, Republic of"
+2013,0.781626,South Korea
+2014,1.376292,"Korea, Republic of"
+2014,1.376292,South Korea
+2015,0.38963,"Korea, Republic of"
+2015,0.38963,South Korea
+2016,1.274571,"Korea, Republic of"
+2016,1.274571,South Korea
+1985,1.035214,Netherlands
+1986,0.718106,Netherlands
+1987,0.440301,Netherlands
+1988,1.288852,Netherlands
+1989,1.569638,Netherlands
+1990,1.02736,Netherlands
+1991,0.440099,Netherlands
+1992,-0.543023,Netherlands
+1993,0.727917,Netherlands
+1994,1.426935,Netherlands
+1995,-0.868554,Netherlands
+1996,0.463032,Netherlands
+1997,1.75812,Netherlands
+1998,1.684656,Netherlands
+1999,1.512596,Netherlands
+2000,2.282164,Netherlands
+2001,0.182538,Netherlands
+2002,-0.185563,Netherlands
+2003,0.537724,Netherlands
+2004,1.233545,Netherlands
+2005,1.720851,Netherlands
+2006,1.242898,Netherlands
+2007,0.633779,Netherlands
+2008,-0.352468,Netherlands
+2009,-3.224179,Netherlands
+2010,1.537092,Netherlands
+2011,0.49134,Netherlands
+2012,-0.803595,Netherlands
+2013,0.154076,Netherlands
+2014,0.593036,Netherlands
+2015,1.25964,Netherlands
+2016,0.235899,Netherlands
+1987,-6.380181,New Zealand
+1988,2.98478,New Zealand
+1989,1.638517,New Zealand
+1990,1.337869,New Zealand
+1991,-2.164861,New Zealand
+1992,2.488919,New Zealand
+1993,2.95097,New Zealand
+1994,0.749148,New Zealand
+1995,0.843899,New Zealand
+1996,0.046769,New Zealand
+1997,2.001136,New Zealand
+1998,-1.97972,New Zealand
+1999,0.946021,New Zealand
+2000,1.534015,New Zealand
+2001,0.971306,New Zealand
+2002,1.563402,New Zealand
+2003,1.048565,New Zealand
+2004,-1.003608,New Zealand
+2005,-0.896409,New Zealand
+2006,0.340618,New Zealand
+2007,2.413567,New Zealand
+2008,-3.926363,New Zealand
+2009,3.469479,New Zealand
+2010,-1.315949,New Zealand
+2011,1.215892,New Zealand
+2012,2.375576,New Zealand
+2013,-1.749844,New Zealand
+2014,-0.364258,New Zealand
+2015,2.200455,New Zealand
+2016,0.053409,New Zealand
+1985,3.208152,Portugal
+1986,3.983007,Portugal
+1987,3.152046,Portugal
+1988,4.67413,Portugal
+1989,3.130501,Portugal
+1990,1.612389,Portugal
+1991,3.467921,Portugal
+1992,1.473118,Portugal
+1993,-1.627527,Portugal
+1994,-0.352991,Portugal
+1995,1.20987,Portugal
+1996,0.99621,Portugal
+1997,1.158273,Portugal
+1998,0.187564,Portugal
+1999,0.781575,Portugal
+2000,-0.145519,Portugal
+2001,-0.405235,Portugal
+2002,-0.68394,Portugal
+2003,-1.151333,Portugal
+2004,0.915007,Portugal
+2005,-0.076814,Portugal
+2006,0.640846,Portugal
+2007,0.613601,Portugal
+2008,-0.795001,Portugal
+2009,-1.996491,Portugal
+2010,1.862175,Portugal
+2011,-0.20649,Portugal
+2012,-0.814402,Portugal
+2013,0.325954,Portugal
+2014,-0.544016,Portugal
+2015,0.315573,Portugal
+1985,2.822049,Spain
+1986,1.011903,Spain
+1987,1.178203,Spain
+1988,1.287253,Spain
+1989,1.053171,Spain
+1990,-0.631897,Spain
+1991,-0.11764,Spain
+1992,1.239172,Spain
+1993,0.802107,Spain
+1994,1.990948,Spain
+1995,0.356765,Spain
+1996,0.531945,Spain
+1997,-0.333596,Spain
+1998,-0.669148,Spain
+1999,-0.613024,Spain
+2000,0.250794,Spain
+2001,-0.301298,Spain
+2002,-0.411448,Spain
+2003,-0.252803,Spain
+2004,-0.344789,Spain
+2005,-0.161448,Spain
+2006,0.012412,Spain
+2007,0.290792,Spain
+2008,-0.844348,Spain
+2009,-0.18615,Spain
+2010,0.693084,Spain
+2011,-0.144797,Spain
+2012,-0.251629,Spain
+2013,-0.182027,Spain
+2014,0.111472,Spain
+2015,0.810861,Spain
+2016,0.649545,Spain
+1985,-0.245998,Sweden
+1986,0.91891,Sweden
+1987,0.798524,Sweden
+1988,-0.834675,Sweden
+1989,-0.141699,Sweden
+1990,-1.26953,Sweden
+1991,-0.716401,Sweden
+1992,0.300489,Sweden
+1993,0.047931,Sweden
+1994,2.192173,Sweden
+1995,1.524515,Sweden
+1996,0.390245,Sweden
+1997,2.429424,Sweden
+1998,1.632561,Sweden
+1999,0.981734,Sweden
+2000,2.122168,Sweden
+2001,-0.290888,Sweden
+2002,2.101818,Sweden
+2003,2.597498,Sweden
+2004,2.86386,Sweden
+2005,1.611336,Sweden
+2006,2.528053,Sweden
+2007,0.005506,Sweden
+2008,-2.507899,Sweden
+2009,-3.814799,Sweden
+2010,3.433041,Sweden
+2011,0.503948,Sweden
+2012,-0.841283,Sweden
+2013,0.385834,Sweden
+2014,0.984365,Sweden
+2015,2.62488,Sweden
+1992,-0.569878,Switzerland
+1993,-0.376923,Switzerland
+1994,-0.038842,Switzerland
+1995,0.333293,Switzerland
+1996,0.73603,Switzerland
+1997,1.784121,Switzerland
+1998,0.439297,Switzerland
+1999,-1.064482,Switzerland
+2000,2.150392,Switzerland
+2001,0.76635,Switzerland
+2002,-0.335393,Switzerland
+2003,-0.935157,Switzerland
+2004,0.551912,Switzerland
+2005,2.111752,Switzerland
+2006,2.06089,Switzerland
+2007,1.722122,Switzerland
+2008,-0.021702,Switzerland
+2009,-2.714711,Switzerland
+2010,2.141497,Switzerland
+2011,-0.41863,Switzerland
+2012,-0.151619,Switzerland
+2013,1.362515,Switzerland
+2014,0.916717,Switzerland
+2015,-0.927409,Switzerland
+2016,0.017156,Switzerland
+2017,1.295445,Switzerland
+1985,1.140311,United Kingdom
+1986,1.977035,United Kingdom
+1987,3.035924,United Kingdom
+1988,0.00806,United Kingdom
+1989,-0.398926,United Kingdom
+1990,-0.405878,United Kingdom
+1991,-0.13549,United Kingdom
+1992,2.100263,United Kingdom
+1993,2.2056,United Kingdom
+1994,1.615773,United Kingdom
+1995,1.751704,United Kingdom
+1996,0.846146,United Kingdom
+1997,3.058608,United Kingdom
+1998,0.990971,United Kingdom
+1999,1.693112,United Kingdom
+2000,2.236454,United Kingdom
+2001,1.527468,United Kingdom
+2002,2.055095,United Kingdom
+2003,2.590438,United Kingdom
+2004,1.65733,United Kingdom
+2005,0.821988,United Kingdom
+2006,1.401168,United Kingdom
+2007,1.067025,United Kingdom
+2008,-0.632874,United Kingdom
+2009,-3.260832,United Kingdom
+2010,1.510184,United Kingdom
+2011,0.112612,United Kingdom
+2012,-0.601007,United Kingdom
+2013,0.138269,United Kingdom
+2014,0.196492,United Kingdom
+2015,1.327898,United Kingdom
+2016,-0.518864,United Kingdom
+2017,0.515485,United Kingdom
+1985,1.030816,United States
+1986,1.27352,United States
+1987,0.219373,United States
+1988,0.795611,United States
+1989,0.424333,United States
+1990,0.680344,United States
+1991,0.03793,United States
+1992,2.565093,United States
+1993,0.139256,United States
+1994,0.790044,United States
+1995,-0.098306,United States
+1996,1.682372,United States
+1997,0.89981,United States
+1998,1.286639,United States
+1999,1.689423,United States
+2000,1.524173,United States
+2001,0.749511,United States
+2002,1.740384,United States
+2003,2.172847,United States
+2004,2.008218,United States
+2005,1.371233,United States
+2006,0.286624,United States
+2007,0.262428,United States
+2008,-0.252001,United States
+2009,0.965509,United States
+2010,2.257872,United States
+2011,0.113709,United States
+2012,0.239563,United States
+2013,0.10141,United States
+2014,0.559032,United States
+2015,0.756159,United States
+2016,0.029878,United States

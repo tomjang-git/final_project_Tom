@@ -1,0 +1,94 @@
+---
+title: "Project planning"
+output: html_notebook
+---
+
+0. Define necessary terms
+
+Productivity: Commonly defined as a ratio between the output volume and the volume of inputs. In other words, it measures how efficiently production inputs, such as labour and capital, are being used in an economy to produce a given level of output.” - OECD
+
+Increases in output can only be due to increases in inputs to production process, OR increase in efficiency with which input is used. If you own a wood mill where workers use handsaws to cut down wood, you can increase output by A) employing more workers to cut down wood the same way, or B) investing in chainsaws for your current workers, which would increase efficiency much more.
+
+Productivity growth is the opportunity to increase output without increasing inputs and incurring these costs.
+
+
+N metric in data tells the entire story. However, productivity can be a good measure of how a country is doing materially. With growth in productivity, an economy is able to produce— and consume— increasingly more goods and services for the same amount of work. 
+
+
+
+
+
+Investment (in relation to productivity):  Spending on mental health education, research and dev. Brief asks about government but maybe could look at private sector as well?
+
+Pretty much: investment = input, productivity = output. 
+
+
+1. Ask the right questions:
+
+From the brief:
+
+- Does government spending on factors such as mental health, education, and research and development affect productivity in the UK?
+
+- Is there a relationship between government investment and productivity?
+
+- Can you predict productivity based on investment?
+
+
+Extra questions:
+
+
+What are the differences between rural and urban productivity?
+
+What are the differences between factors that impact rural and urban productivity? 
+
+What are the most productive countries, and why? Do they line up with the countries that invest the most?
+
+
+
+
+0. Choose relevant sets
+
+I’ve narrowed the datasets down, going to break it down into cross country comparisons, intra UK industry, and then rural urban divide
+
+
+NEED
+
+Part 1:
+
+Cross country comparison data
+
+
+Part 2
+
+
+
+-Commuting data could be interesting, could try and connect the regions commuting more or less to productivity by region, and then connect that to investment in rail and bus infrastructure.
+
+-Cross country government expenditure on mental health could be really useful but it only has figures from 2011. Makes me wonder how up to date these dfs need to be
+
+ -CC GDS on R&D also interesting but only goes up to 2015
+ 
+ -Seems to be an issue with a lot of the data, although if the impact had by investment in infrastructure is big then it might not be a year to year correlation (2019 investment, 2020 increased productivity). However, there is also decaying infrastructure
+ Might be worth making varibale cumulative or average infrastructure spending
+
+ 
+ -the Mental heatlh in Tech DF is really comprehensive, could be an interesting look at that specific sector
+ 
+ -Private sector in Economy is 
+
+
+
+0. Clean data
+
+
+0. Run ML 
+
+
+0. Draw conclusions, answer this question: "How can we improve productivity within Scotland and the UK overall?"
+
+
+0. Visualise
+
+
+
+
